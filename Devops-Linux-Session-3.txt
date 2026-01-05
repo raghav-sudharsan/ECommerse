@@ -1,0 +1,22 @@
+ will multiple ping requests from multiple IPs puts load on the serv
+ping
+head
+tail
+pinky
+rev
+wc
+who
+man
+history
+alias
+unalias
+type
+uptime
+cp
+mv
+rename
+
+
+
+
+q: what is the diff between who ,who am i  , logname , pinky 
